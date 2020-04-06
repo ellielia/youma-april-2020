@@ -53,10 +53,10 @@
             <h4 class="font-weight-bold sdp-text">Get to know Youma</h4>
             <ul class="list-unstyled ml-0 pt-3 pl-0">
                 <li class="mb-3">
-                    <a href="#" class="btn btn-block">Achievements</a>
+                    <a href="/achievements" class="btn btn-block">Achievements</a>
                 </li>
                 <li>
-                    <a href="#" class="btn btn-block">Manifesto</a>
+                    <a href="/manifesto" class="btn btn-block">Manifesto</a>
                 </li>
             </ul>
         </div>

@@ -165,12 +165,12 @@ representing you in federal parliament.</p>
             </div>
             <div class="col-md-6">
                 <div style="font-size: 1.1em;" class="pb-2">
-                    <span class="font-weight-bold">Promise #9:</span> Hold The Parliamnet to Account
+                    <span class="font-weight-bold">Promise #9:</span> Hold The Parliament to Account
                 </div>
             </div>
             <div class="col-md-6">
                 <div style="font-size: 1.1em;" class="pb-2">
-                    <span class="font-weight-bold">Promise #10:</span> Keep Education Correct
+                    <span class="font-weight-bold">Promise #10:</span> Keep Education Free
                 </div>
             </div>
         </div>
