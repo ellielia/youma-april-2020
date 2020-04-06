@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('title', 'Welcome')
+@section('title', 'Get To Know Youma')
 @section('content')
 <nav class="navbar navbar-expand-lg navbar-dark shadow-none" style="z-index: 1000; position:absolute; top: 10px; left: 0; right: 0; min-height:60px;">
     <div class="container">
